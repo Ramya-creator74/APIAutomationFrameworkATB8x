@@ -3,16 +3,13 @@
 <suite name="All Test Suite">
     <groups>
         <run>
-            <include name="qa"></include>
+            <include name="prod"></include>
         </run>
 
     </groups>
-    <test verbose="2" preserve-order="true" name="APIAutomationFrameworkATB8x">
-        <classes>
-            <class name="com.thetestingacademy.tests.integration.sample.TestIntegration_Sample"></class>
-        </classes>
+    <test verbose="2" preserve-order="true" name="C:\Users\hp\IdeaProjects\APIAutomationFrameworkATB8x">
 
 
-
+        <classes/>
     </test>
 </suite>

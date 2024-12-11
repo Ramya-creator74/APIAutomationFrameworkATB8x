@@ -1,4 +1,4 @@
-package com.thetestingacademy.samplecheck.Payload_Management.Easyway_Gson;
+package com.thetestingacademy.pojos;
 
 import com.google.gson.annotations.Expose;
 import com.google.gson.annotations.SerializedName;

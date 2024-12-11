@@ -1,11 +1,11 @@
-package com.thetestingacademy.tests.integration.sample;
+package com.thetestingacademy.tests.integration.crud;
 
 import io.qameta.allure.Description;
 import io.qameta.allure.Owner;
 import org.testng.Assert;
 import org.testng.annotations.Test;
 
-public class TestIntegration_Sample {
+public class TestIntegrationFlow {
     //create a booking, create a token
     // get booking
     // update the booking

@@ -3,13 +3,13 @@
 <suite name="All Test Suite">
     <groups>
         <run>
-            <include name="prod"></include>
+            <include name="qa"></include>
         </run>
 
     </groups>
     <test verbose="2" preserve-order="true" name="APIAutomationFrameworkATB8x">
         <classes>
-            <class name="com.thetestingacademy.tests.integration.sample.TestIntegrationSample"></class>
+            <class name="com.thetestingacademy.tests.integration.sample.TestIntegration_Sample"></class>
         </classes>
 
 
